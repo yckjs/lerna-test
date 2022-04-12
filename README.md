@@ -1,0 +1,2 @@
+# lerna-test
+use lerna
